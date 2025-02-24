@@ -40,11 +40,7 @@ This project analyzes ITV Telecom’s market performance, revenue trends, and us
 This Power BI dashboard provides ITV Telecom with a comprehensive view of its financial and market position post-5G deployment. By analyzing revenue streams, market trends, and customer engagement, decision-makers can **optimize pricing strategies, target high-performing cities, and improve user retention strategies**.
 
 ---
-### 📌 Repository Information
-- **Author:** [Your Name]
-- **Technology Stack:** Power BI, DAX, SQL (if applicable), Excel
-- **Status:** Completed
-- **License:** MIT (or any other relevant license)
+
 
 Feel free to contribute or raise issues for further improvements!
 
