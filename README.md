@@ -41,11 +41,6 @@ This Power BI dashboard provides ITV Telecom with a comprehensive view of its fi
 
 ---
 
-
-Feel free to contribute or raise issues for further improvements!
-
----
-
 ### 📊 Dashboard Preview
 ![Screenshot 2025-02-24 203506](https://github.com/user-attachments/assets/ad98c72a-4fc7-4d3c-9fa7-ef08b81942f7)
 ![Screenshot 2025-02-24 203518](https://github.com/user-attachments/assets/c1f3f60f-494d-4837-8a0c-09185da243ec)
